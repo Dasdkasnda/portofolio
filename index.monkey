@@ -1,3 +1,8 @@
+let add = fn(a, b) { a + b };
+let result = add(5, 10);
+puts(result); // Output: 15
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
